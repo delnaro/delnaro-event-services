@@ -30,3 +30,5 @@ invoices@delnaro.be
 
 For event inquiries:
 events@delnaro.be
+
+_Service availability updated._
